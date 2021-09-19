@@ -5,7 +5,7 @@ Run the code.
 
 Python
 ```python
-mport random
+import random
 
 name = input("What is your name? ")
 
